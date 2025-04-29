@@ -1,1 +1,1 @@
-this is the read me file added to the project folder
+this project is aimed at building a good search engine
