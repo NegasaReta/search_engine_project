@@ -1,5 +1,5 @@
-#Search Engine Project
-##Overview
+# Search Engine Project
+## Overview
 The Search Engine Project is a simple yet powerful system designed to demonstrate the fundamentals of indexing, ranking, and retrieving information from a dataset. This project aims to provide users with an efficient way to search through data and display relevant results.
 
 Features
